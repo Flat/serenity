@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DefaultAvatar","An enum that represents a default avatar."],["OnlineStatus","The representation of a user’s status."]],"struct":[["CurrentUser","Information about the current user."],["User","Information about a user."]]});
